@@ -1,0 +1,333 @@
+Welcome to the littlepoetrywala app!!
+
+Here is a world bent on spreading the wonders of literature!
+Right here you can acces all the poems without any need to access
+our website.
+But that does not mean you stop viewing our website!
+
+Enjoy free access to quizzes, fun-facts and many more.
+
+
+Find out how to wake up the poet in you, by poetry writing basics
+
+
+
+Figure out how much you know about poetry and its fascinating many types
+Did you know that a limerick is xyz or a blah is abc
+Get inspired ! You can also see some wonderful poems by famous poets.
+And yes, if you are someone who loves writing poetry, 
+here is a portal where you can submit your poetry.
+
+
+
+
+
+Poetry Section(1)
+Put content
+Poem names:
+For now I need ten poems
+
+Famouse poems Section
+Now 5 poems
+
+
+ p1=createSprite(windowWidth/2,75,windowWidth,windowHeight/10)
+ p2=createSprite(windowWidth/2,75,windowWidth,windowHeight/10)
+ p3=createSprite(windowWidth/2,150,windowWidth,windowHeight/10)
+ p4=createSprite(windowWidth/2,225,windowWidth,windowHeight/10)
+ p5=createSprite(windowWidth/2,225+75,windowWidth,windowHeight/10)
+ p6=createSprite(windowWidth/2,225+150,windowWidth,windowHeight/10)
+ p7=createSprite(windowWidth/2,375+75,windowWidth,windowHeight/10)
+ p8=createSprite(windowWidth/2,375+150,windowWidth,windowHeight/10)
+ p9=createSprite(windowWidth/2,375+225,windowWidth,windowHeight/10)
+ p10=createSprite(windowWidth/2,1,windowWidth,windowHeight/10)
+
+
+ text("Rules and Laws - By Anirudh Iyer",windoWidth/2,p1.y)
+ text("Hope - By Anirudh Iyer",windoWidth/2,p2.y)
+ text("Understanding - By Anirudh Iyer",windoWidth/2,p3.y)
+ text("Joy - By Anirudh Iyer",windoWidth/2,p4.y)
+ text("Laughter - By Anirudh Iyer",windoWidth/2,p5.y)
+ text("A Critique of Humanity - By Anirudh Iyer",windoWidth/2,p6.y)
+ text("A seed - By Anirudh Iyer",windoWidth/2,p7.y)
+ text("Old is Gold - By Anirudh Iyer",windoWidth/2,p8.y)
+ text("There is no light without darkness - By Anirudh Iyer",windoWidth/2,p9.y)
+ text("One life - By Anirudh Iyer",windoWidth/2,p10.y)
+
+
+{  
+Oh! The rules and laws,
+Aren’t they an abandoned cause,
+Restrictions of the society,
+Towards them, we lack piety.
+
+Do we even practice what we preach,
+Anger is outlasted by speech,
+Yet everyday a child is thrashed,
+Everyday a rule is trashed.
+
+Every time a person is sent to gaol,
+No one did wonder,
+How can justice be in our control,
+A life was sent away in soundless thunder.
+
+How do we get to decide,
+Who will live and who will die,
+Who gave us the right,
+Who gave us this emblazoned might.
+
+Who decides good and bad,
+Who decides happy or sad,
+Who created these rules,
+Who are these fools?
+
+Who gave them the spotlight,
+Everyone has free will,
+No one can suppress with might,
+It’s not justice, it’s a standstill.
+
+Stereotyping and discriminating,
+Extrapolating and cage-creating,
+Why are these sentences blistered with flaws,
+Why rules, why laws.
+
+}
+
+{
+Hope,
+The everlasting fuel tank,
+Either a trusty rope,
+Or a person guarding your flank.
+
+In troubled times, your parent,
+In losing days, your friends,
+In stress, it is your vent,
+In a dreary road, it is the bends.
+
+In times of need, it’s money,
+In sad times, your handkerchief,
+In boring times, it’s things which are funny,
+In times of defeat, of glory hope gives a whiff.
+
+It is your ever- supporting conscience,
+It is your trusty shadow,
+In blindness, your lens,
+In darkness, the faint glow.
+
+It keeps you moving on,
+It is your ever- standing companion,
+It is your returning dreams, which were long gone,
+It is the wind pushing you away from the deep canyon.
+
+As we stumble around in the dark,
+Hope has our hand,
+Wherever we wander, expression stark,
+Whether a withering forest or a desert land.
+
+In life’s long tunnel,
+It is the barely seen light,
+As times narrow down, like the other end of a funnel,
+Yet it channels our inner fight.
+
+The old friend,
+Weathering the times,
+Showing a turning in every dead end,
+In times of eerie silence, joyous wind chimes.
+
+It has always been there,
+When life has given us the sack,
+In times of despair,
+It always has and will have our back.
+
+Though one day as it leaves our hand,
+Feeling rather sore,
+We know it is the end of the strand,
+We remain no more.
+
+There always is hope,
+While falling, there always is that rope.
+}
+
+{
+What is understanding?
+A mother understands her children,
+The father too is understanding,
+Till they’re grown-up men.
+
+A scientist understands his discovery,
+A teacher understands her students,
+A seed is only understood by a tree,
+Only a volcano understands its vents.
+
+What is this instinctive understanding,
+We’ve searched everywhere during this task,
+On no conclusion are we ever landing,
+But I ask,
+
+Why not leave everything be,
+Someday our eyes will open to be able to see.
+}
+
+{
+Frolicking in the sun,
+Life a bubble of fun,
+Don’t take stress,
+Just care less.
+
+Why worry about money,
+Oh, don’t look at me funny,
+I’m enjoying, why, I have no clue,
+But let me rub it off on you too.
+
+Pure optimism,
+Will reduce your pessimistic wisdom,
+Clearing those black spots,
+Chasing away those mental clots.
+
+Pure ecstasy,
+Can lift you out of a life gone messy,
+Stop being serious,
+People’ll think you’re delirious.
+
+Sure, have caution,
+Or soon, you’ll reach joy’s exhaustion,
+But let life have its way,
+Enjoy each rapturous day.
+
+Why worry,
+Difficulties go in a flurry,
+Savour them while they last,
+Just don’t let go of the ship’s mast.
+
+Fill yourself to the brim,
+With triumph enjoy your swim,
+With endless joy let yourself bloat,
+At sadness, darkness, pessimism just gloat.
+
+Float up to cloud nine,
+And on joy and exuberance dine.
+}
+
+{
+Laughter :
+
+The remedy for all ailments,
+It costs no money, neither rupees nor cents,
+God’s gift is its say,
+It cures you no matter how old or fray.
+
+It lifts you out of darkness,
+It uplifts you despite starkness,
+Wrapping you in its warm embrace,
+All trouble it can face.
+
+It revives that smile,
+No matter how far, a light-year or a mile,
+Sublime is laughter,
+Dousing life’s unhealthy clatter.
+
+Laugh till you cry,
+Laugh till you sigh!
+}
+
+{
+Tolerant and bigots,
+White spots and black spots,
+Conventional and unconventional,
+Legal and criminal.
+
+Good and bad,
+Happy and sad,
+Justice and unfair,
+Ruthlessness and care.
+
+War and peace,
+Imprisonment and lease,
+All listed on a scroll,
+All in somebody’s control.
+
+Life or death,
+Defeat or a laurel wreath,
+All are decided upon,
+By somebody who is right or maybe even wrong.
+
+Profit or loss,
+Dry or sauce,
+All in somebody’s careless hands,
+With the power of 100 hands.
+
+Well, who bestowed these hands with power,
+Who gave them the right to glower,
+Who allowed them to criticize,
+Who allowed them to gamble truth with lies.
+
+What self-acclaimed posts,
+What inhospitable hosts,
+What phagocytes,
+What greedy termites.
+
+All define us,
+Don’t fuss,
+All define the human race,
+Now go back and see your face.
+
+“Our glorious feats”,
+We say; what cheats.
+Bravado is what truth does decree,
+We let our imagination run free.
+
+Let me define a human being,
+Perpetually scared and fleeing,
+Why do we have a brain,
+Now, this thought makes us go insane.
+
+Overgrown brats wanting our way,
+Everything must go by our say,
+That’s our very worst,
+In ourselves, we are perpetually immersed.
+
+Now I understand why humanity,
+Rhymes so well with insanity.
+}
+
+{
+There was a tiny seed,
+Much older than you,
+Like a 1000 years older,
+Known by only a few.
+
+Grew slowly,
+Under no threatening shade,
+In rich soil,
+In an open glade.
+
+Many years later,
+It dispersed its seeds,
+Some fell into rivers,
+Some were tangled in reeds.
+
+But one special seed survived,
+And grew into a tall tree,
+For many years,
+It lived free.
+
+But men came along,
+And harvested it,
+By now on your parent’s lap,
+You would’ve begun to sit.
+
+The men used it to make paper,
+And in it was written a story,
+Blind to reality,
+Blind to history.
+
+OUt of it was made a book,
+That you just read,
+And you thought it was finished,
+Though nowhere it led.
+
+If only you looked carefully enough,
+Etched invisible in its fabric,
+As you had wrongly wondered,
+The seed hadn’t yet finished its magic.
+}
